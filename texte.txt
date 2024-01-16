@@ -4,3 +4,4 @@ b
 c
 d
 funcionalidade a
+funcionalidade b
